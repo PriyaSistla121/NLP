@@ -1,6 +1,6 @@
 ### NLP
 ## Project Overview
-* This project implements a Natural Launguage Processing using TensorFlow & Keras for sentiment analysis.
+* This project implements a Natural Language Processing using TensorFlow & Keras for sentiment analysis.
 * The model is trained on twitter data set which has different tweets from users.
 ## Technologies Used
 * Backend: Python
